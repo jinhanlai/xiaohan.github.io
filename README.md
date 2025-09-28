@@ -1,2 +1,6 @@
-# xiaohan.github.io
-逍寒的个人博客
+# 个人学习笔记
+
+# llm 相关
+LLM 的相关概念
+LLm 的工程时间
+LLm 推理加速相关的
